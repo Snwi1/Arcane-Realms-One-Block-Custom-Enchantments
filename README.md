@@ -118,3 +118,139 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Devour (III) <br>
 <b> Applies to: </b> Sword, Axe <br>
 <b> Effect: </b> Chance to restore food while killing mobs <br>
+## **Primer Custom Enchantments**
+<b> Reaper (III) <br>
+<b> Applies to: </b> Axe <br>
+<b> Effect: </b> Chance to give your opponent the Wither and Blindness effects while dealing damage <br>
+
+<b> Blind (III) <br>
+<b> Applies to: </b> Sword <br>
+<b> Effect: </b> A chance of causing blindness when attacking <br>
+
+<b> Frozen (III) <br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Can cause slowness to attacker when defending <br>
+
+<b> Paralyze (III) <br>
+<b> Applies to: </b> Sword, Axe <br>
+<b> Effect: </b> Gives lightning effect and a chance for slowness and slow swinging
+
+<b> Poison (III) <br>
+<b> Applies to: </b> Sword, Axe <br>
+<b> Effect: </b> Chance of giving poison effect <br>
+
+<b> Poisoned (IV) <br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Chance to give poison to your attacker <br>
+
+<b> Reforged (X) <br>
+<b> Applies to: </b> Axe, Sword, Pickxe, Spade <br>
+<b> Effect: </b> Protects weapons and tools durability, items will be take longer to break <br>
+
+<b> Snare (IV) <br>
+<b> Applies to: </b> Bow, Crossbow <br>
+<b> Effect: </b> Chance to slow and fatigue enemies with projectiles <br>
+
+<b> Springs (III) <br>
+<b> Applies to: </b> Boots <br>
+<b> Effect: </b> Gives jump boost <br>
+
+<b> Undead Ruse (X) <br>
+<b> Applies to: </b> Boots <br>
+<b> Effect: </b> When hit you have a chance to spawn zombie hordes to distract and disorient your opponents <br>
+
+<b> Voodoo (VI) <br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Gives a chance to deal weakness <br>
+
+<b> Wither (V) <br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Chance to give the wither effect <br>
+
+<b> Smoke Bomb (VIII) <br>
+<b> Applies to: </b> Helmet <br>
+<b> Effect: </b> When you are near death, you will spawn a smoke bomb to distract your enemies <br>
+
+## **Enigmatic Custom Enchantments**
+
+<b> Impact (IV) <br>
+<b> Applies to: </b> Trident <br>
+<b> Effect: </b> Chance to double dealt damage <br>
+
+<b> Vein Miner (III) <br>
+<b> Applies to: </b> Pickaxe <br>
+<b> Effect: </b> Mine entire vein of ores <br>
+
+<b> Hook (III) <br>
+<b> Applies to: </b> Pickaxe <br>
+<b> Effect: </b> Get more exp from fishing <br>
+
+<b> Snap (III) <br>
+<b> Applies to: </b> Fishing Rod <br>
+<b> Effect: </b> Pull hit entity towards you <br>
+
+<b> Ambit (VII) <br>
+<b> Applies to: </b> Sword, Axe <br>
+<b> Effect: </b> Damages mobs within a radius that increases with the level of enchant <br>
+
+<b> Angelic (V) <br>
+<b> Applies to: </b> Chestplate <br>
+<b> Effect: </b> Heals when damaged <br>
+
+<b> Arrow Deflect (IV) <br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Chance to prevent enemy arrow from dealing damage <br>
+
+<b> Diminish (I) <br>
+<b> Applies to: </b> Axe <br>
+<b> Effect: </b> Chance to give your enemy mining fatigue <br>
+
+<b> Interrupt (II) <br>
+<b> Applies to: </b> Sword <br>
+<b> Effect: </b> Chance to give your enemy mining fatigue <br>
+
+<b> Trench (IX) <br>
+<b> Applies to: </b> Pickaxe, Spade <br>
+<b> Effect: </b> Chance to break in 3x3 area <br>
+
+<b> Ice Aspect (III) <br>
+<b> Applies to: </b> Sword <br>
+<b> Effect: </b> Chance of causing the slowness effect on your enemy <br>
+
+<b> Obsidian Shield (I) <br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Gives permanent fire resistance <br>
+
+<b> Safe Guard (II) <br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Chance to gain Damage Resistance when defending <br>
+
+<b> Disintegrate (IV) <br>
+<b> Applies to: </b> Sword <br>
+<b> Effect: </b> Chance to deal extra durability damage to all enemy armor with every attack <br>
+
+<b> Long bow (IV) <br>
+<b> Applies to: </b> Bow, Crossbow <br>
+<b> Effect: </b> Greatly increases damage dealt to enemy players that have a bow in their hands <br>
+
+<b> Spirits (X) <br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Chance to spawn guard blazes <br>
+
+<b> Spark (III) <br>
+<b> Applies to: </b> Trident <br>
+<b> Effect: </b> Light opponents on fire <br>
+
+<b> Blunt Force (IV) <br>
+<b> Applies to: </b> Axe <br>
+<b> Effect: </b> Chance to strike with a great force <br>
+
+<b> Suspend (III) <br>
+<b> Applies to: </b> Sword <br>
+<b> Effect: </b> Chance to cause no knockback to mobs <br>
+
+<b> Magnet (III) <br>
+<b> Applies to: </b> Sword <br>
+<b> Effect: </b> Your attacks pulls players towards you <br>
+
+## **Ultimate Custom Enchantments**
