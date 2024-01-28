@@ -12,3 +12,7 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 - [Legendary Custom Enchantments](#legendary-custom-enchantments)
 - [Divine Custom Enchantments](#divine-custom-enchantments)
  
+## **Simple Custom Enchantments**
+<b> Strike (III) </b><br>
+<b> Applies to: </b> Trident, Bow, Crossbow, Sword <br>
+<b> Effect: </b> Chance to strike lightning at the opponent <br>
