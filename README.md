@@ -1,2 +1,10 @@
 # Arcane-Realms-One-Block-Custom-Enchantments
-test
+
+# Simple Enchantments
+ Strike
+ Aquatic
+ Smelting
+ Experience
+ Hasten
+ Glowing
+ Decapitation
