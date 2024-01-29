@@ -254,3 +254,138 @@ If you want to find the specific word, just do **F3**, and type the word you wan
 <b> Effect: </b> Your attacks pulls players towards you <br>
 
 ## **Ultimate Custom Enchantments**
+
+<b> Planter (III) <br>
+<b> Applies to: </b> Hoe <br>
+<b> Effect: </b> Plant seeds in a 3x3 area by shift+right clicking <br>
+
+<b> Potato Planter (III) <br>
+<b> Applies to: </b> Hoe <br>
+<b> Effect: </b> Plant potatoes in a 3x3 area by shift+right clicking <br>
+
+<b> Carrot Planter (III) <br>
+<b> Applies to: </b> Hoe <br>
+<b> Effect: </b> Plant carrots in a 3x3 area by shift+right clicking <br>
+
+<b> Lucky (III) <br>
+<b> Applies to: </b> Fishing Rod <br>
+<b> Effect: </b> Chance to increase luck while fishing
+
+<b> Permafrost (V) <br>
+<b> Applies to: </b> Sword <br>
+<b> Effect: </b> Chance to slow and bleed the opponents <br>
+
+<b> Timber (III) <br>
+<b> Applies to: </b> Axe <br>
+<b> Effect: </b> Chance to break a tree in one hit <br>
+
+<b> Distance (IV) <br>
+<b> Applies to: </b> Sword, Axe <br>
+<b> Effect: </b> Chance to distance yourself from your enemies <br>
+
+<b> Cleave (VII) <br>
+<b> Applies to: </b> Axe <br>
+<b> Effect: </b> Chance to damage the players within a radius that increases with the level of enchant <br>
+
+<b> Exalted (IV) <br>
+<b> Applies to: </b> Sword <br>
+<b> Effect: </b> Chance to remove the bad potion effects <br>
+
+<b> Ragdoll (IV) <br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Chance to be pushed back when getting hit <br>
+
+<b> Block (III) <br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Chance to negate an attack and deals up to 4 damage back <br>
+
+<b> Dodge (V) <br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Chacne to dodge physical enemy, chance increases when sneaking <br>
+
+<b> Guardians (X) <br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: Chance to spawn iron golems to assist and watch over you <br>
+
+<b> Reinforced (IV) <br>
+<b> Applies to: </b> Elytra <br>
+<b> Effect: </b> Reduces damage dealt to you <br>
+
+<b> Implants (III) <br>
+<b> Applies to: </b> Helmet <br>
+<b> Effect: </b> Chance to restore food every few seconds <br>
+
+<b> Piercing (V) <br>
+<b> Applies to: </b> Bow, Crossbow <br>
+<b> Effect: </b> Chance to inflict more damage <br>
+
+<b> Archer (IV) <br>
+<b> Applies to: </b> Bow <br>
+<b> Effect: </b> Chance to increase damage dealt with bows <br>
+
+<b> Disappear (IV) <br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Chance to become invisible when on low health <br>
+
+<b> Confuse (IV) <br>
+<b> Applies to: </b> Sword <br>
+<b> Effect: </b> Chance to give a nausea effect <br>
+
+<b> Shatter (IV) <br>
+<b> Applies to: </b> Axe <br>
+<b> Effect: </b> Chance to deal extra durability damage to all enemy armor with every attack <br>
+
+<b> Heavy (V) <br> 
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Decreases damage from enemy bows by 2% per level <br>
+
+<b> Hellfire (V) <br>
+<b> Applies to: </b> Bow <br>
+<b> Effect: </b> Arrow will turn into fireballs <br>
+
+<b> Tank (IV) <br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Chance to decrease damage from enemy axes by 2% per level <br>
+
+<b> Swordsman (V) <br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Chance to reduce incoming damage while wielding a sword by up to 22% at max level <br>
+
+<b> Creeper Armor (III) <br>
+<b> Applies to: </b> Armor <br>
+<b> Effect: </b> Chance to be immune to explosive damage, at higher levels theres a chance to heal <br>
+
+<b> Bleed (VI) <br>
+<b> Applies to: </b> Axe <br>
+<b> Effect: </b> Chance of making your opponent bleed <br>
+
+<b> Immolation (III) <br>
+<b> Applies to: </b> Sword <br>
+<b> Effect: </b> Chance to set all mobs in radius on fire <br>
+
+<b> Striker (III) <br>
+<b> Applies to: </b> Bow <br>
+<b> Effect: </b> Chance to rain arrows over your opponent <br>
+
+<b> Sniper (V) <br>
+<b> Applies to: </b> Bow <br>
+<b> Effect: </b> Headshot with bows deals double damage <br>
+
+<b> Aegis (III) <br>
+<b> Applies to: </b> Boots <br>
+<b> Effect: </b> Chance to gain speed when taking fall damage <br>
+
+<b> Plummet (III) <br>
+<b> Applies to: </b> Boots <br>
+<b> Effect: </b Chance to deal damage to nearby mobs when taking fall damage
+
+<b> Night Owl (III) <br>
+<b> Applies to: </b> Sword <br>
+<b> Effect: </b> Deals more damage to mobs at night <br>
+
+<b> Fuddle (III) <br>
+<b> Applies to: </b> Sword <br>
+<b> Effect: </b> Chance to disorganize opponent's hotbar <br>
+
+## **Legendary Custom Enchantments**
+
